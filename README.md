@@ -1,6 +1,6 @@
 # Hi there, I'm Sufail Salim 👋
 
-Welcome to my GitHub! I'm a passionate student and aspiring **Backend Developer** with a strong foundation in Python, Django, Flask, and JavaScript. My journey has been shaped by curiosity, hands-on projects, and a drive to solve real-world problems with code.
+I'm a passionate student and aspiring **Backend Developer** with a strong foundation in Python, Django, Flask, and JavaScript. My journey has been shaped by curiosity, hands-on projects, and a drive to solve real-world problems with code.
 
 ---
 
@@ -51,6 +51,4 @@ A comprehensive platform to manage events, attendees, and logistics.
 ## 🤝 Open to Opportunities
 
 I'm always eager to connect with fellow developers, contribute to open source, and take on new challenges. Feel free to reach out for collaboration, or just to chat!
-
----
 
