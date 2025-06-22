@@ -37,7 +37,6 @@ A comprehensive platform to manage events, attendees, and logistics.
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sufail-salim-3038b624a/)
-- [GitHub](https://github.com/Sufail07)
 
 ---
 
