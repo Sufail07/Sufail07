@@ -22,8 +22,7 @@ I'm a passionate and aspiring **Backend Developer** with a strong foundation in 
 
 ## 🌟 Favorite Project
 
-### [Event Management System](https://github.com/Sufail07/Event-Management-System)
-A comprehensive platform to manage events, attendees, and logistics.
+### [Hospital Management System](https://github.com/Sufail07/Hospital-Management-System)
 
 ---
 
