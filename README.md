@@ -6,7 +6,7 @@ I'm a passionate and aspiring **Backend Developer** with a strong foundation in 
 
 ## 🚀 About Me
 
-- 🎓 **Student** actively learning and building in the world of backend development
+- Actively learning and building web applications.
 - 💡 Experienced with:  
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
