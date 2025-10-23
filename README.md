@@ -16,13 +16,7 @@ I'm a **Backend Developer** with a strong foundation in Python, Django, Flask, J
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - 🔌 Building and consuming **RESTful APIs**
-- 🛠️ Always open to learning new technologies and best practices
-
----
-
-## 🌟 Favorite Project
-
-### [Hospital Management System](https://github.com/Sufail07/Hospital-Management-System)
+- 🛠️ Always open to learning new technologies and best 
 
 ---
 
