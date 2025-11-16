@@ -1,7 +1,6 @@
 # Hi there, I'm Sufail Salim 👋
 
-Backend Engineer who enjoys building fast, clean, and scalable systems. Python, Django, DRF, PostgreSQL, caching, async… anything behind the scenes is my playground. Turning ideas into reliable APIs one commit at a time.
----
+Backend Engineer who enjoys building fast, clean, and scalable systems. Python, Django, DRF, PostgreSQL, caching, async… anything behind the scenes is my playground. Turning ideas into reliable APIs one commit at a time.---
 
 ## 🚀 About Me
 
