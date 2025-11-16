@@ -1,7 +1,6 @@
 # Hi there, I'm Sufail Salim 👋
 
-I'm a **Backend Developer** with a strong foundation in Python, Django, Flask, JavaScript, and React. My journey has been shaped by curiosity, hands-on projects, and a drive to solve real-world problems with code.
-
+Backend Engineer who enjoys building fast, clean, and scalable systems. Python, Django, DRF, PostgreSQL, caching, async… anything behind the scenes is my playground. Turning ideas into reliable APIs one commit at a time.
 ---
 
 ## 🚀 About Me
